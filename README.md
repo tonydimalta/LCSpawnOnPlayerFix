@@ -13,6 +13,6 @@ What this mod does is filter out any spawn points too close to players that are 
 It also allows more upward safety to account for the Jetpack as a player can't look directly below their feet and probably wouldn't do it when landing anyway, which should also work when dropping from pipes for instance.
 
 Here is some debug example in action (red line means a monster can spawn, green means it's safe):  
-![debugSpawnPoints.gif](https://github.com/tonydimalta/LCSpawnOnPlayerFix/tree/main/LCSpawnOnPlayerFix/Package/debugSpawnPoints.gif)
+![debugSpawnPoints.gif](https://github.com/tonydimalta/LCSpawnOnPlayerFix/blob/main/LCSpawnOnPlayerFix/Package/debugSpawnPoints.gif)
 
 </details>
